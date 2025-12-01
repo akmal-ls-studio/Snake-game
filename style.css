@@ -114,16 +114,18 @@ body {
     align-items: center;
 }
 
+.alert-content span {
+    color: white;
+}
+
 .alert-content span:nth-child(1) {
     position: relative;
-    color: white;
     left: 95%;
     margin-top: -100px;
 }
 
 .alert-content span:nth-child(5) {
     position: relative;
-    color: white;
     margin-left: 30%;
     margin-top: 80px;
 }
@@ -181,6 +183,7 @@ body {
     margin-bottom: 40px;
     margin-right: 40px;
     display: flex;
+    color: white;
     justify-content: center;
     align-items: center;
     text-align: center;
