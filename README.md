@@ -4,6 +4,10 @@ Snake Game!! Simple retro design game with javascript!
 Simple control button, but only works on mobile or touchscreen, next update will be able work with arrow keys on keyboard computer and laptop.
 
 Score to see how many food you can eat.
+- Easy   : 1 food = 1 score
+- Medium : 1 food = 4 score
+- Hard   : 1 food = 7 score
+- Asia   : 1 food = 10 score
 
 Retry button to restart the game.
 
