@@ -88,7 +88,7 @@ function frame() {
   if(isPlaying) ctx.fillRect(cell.x, cell.y, grid-1, grid-1);
     if (cell.x === food.x && cell.y === food.y) {
       ular.maxSize++;
-      score += (level.v + 1);
+      score += level.speed.toReversed()[level.v];
       food.x = getRandomInt(0, maxBox / level.box[level.v]) * grid;
       food.y = getRandomInt(0, maxBox / level.box[level.v]) * grid;
     }
