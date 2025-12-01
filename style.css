@@ -5,7 +5,6 @@
     font-family: "Jersey 10", sans-serif;
     font-weight: 400;
     font-style: normal;
-    color: white;
 }
 
 body {
@@ -47,6 +46,7 @@ body {
     padding: 8px;
     font-size: 18pt;
     background: #222;
+    color: white;
     border-radius: 20px;
     position: relative;
     display: flex;
@@ -115,12 +115,14 @@ body {
 
 .alert-content span:nth-child(1) {
     position: relative;
+    color: white;
     left: 95%;
     margin-top: -100px;
 }
 
 .alert-content span:nth-child(5) {
     position: relative;
+    color: white;
     margin-left: 30%;
     margin-top: 80px;
 }
