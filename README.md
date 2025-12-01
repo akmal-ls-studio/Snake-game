@@ -1,2 +1,13 @@
 # Snake-game
 Snake Game!! Simple retro design game with javascript!
+
+Simple control button, but only works on mobile or touchscreen, next update will be able work with arrow keys on keyboard computer and laptop.
+
+Score to see how many food you can eat.
+
+Retry button to restart the game.
+
+And especially this is free licence 🎉
+You can add, edit, or remove component you want, free learn if you want!! 🥳
+
+Hope you enjoy it!
