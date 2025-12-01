@@ -12,19 +12,10 @@ Score to see how many food you can eat.
 Retry button to restart the game.
 
 And especially this is free licence 🎉
-You can add, edit, or remove component you want, free learn if you want!! 🥳
+You can add, edit, or remove component if you want 🥳
 
 Hope you enjoy it!
 
 <div align="center">
 <a href="https://akmal-ls-studio.github.io/Snake-game/index.html"><b>Click Here to start the Game!</b></a>
 </div>
-
-
-
-
-
-
-
-
-
